@@ -1,0 +1,10 @@
+
+[{shop_url}] 
+
+Hellow, 
+
+produit : {product} 
+stock : {qty}
+ 		 
+
+
